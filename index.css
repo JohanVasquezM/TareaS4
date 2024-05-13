@@ -1,0 +1,23 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(file:///C:/Users/HMC/Desktop/Trabajos%20Visual%20Code/TareaS4/imagenes/Fondo.webp);
+}
+.list-group-item{
+    background-color: #343a40 !important;
+    color: white !important;
+}
+.list-group-horizontal li{
+border: none !important;
+}
+
+.carousel-item img {
+    height: 400px;
+}
+
+.card {
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
